@@ -24,11 +24,25 @@
 Pytorch基础练习
 
 ![](https://github.com/Dudumowang/OUC-Deep-Learning/blob/main/pic/week01/1.1.png)
+![](https://github.com/Dudumowang/OUC-Deep-Learning/blob/main/pic/week01/1.2.png)
+![](https://github.com/Dudumowang/OUC-Deep-Learning/blob/main/pic/week01/1.3.png)
+![](https://github.com/Dudumowang/OUC-Deep-Learning/blob/main/pic/week01/1.4.png)
+![](https://github.com/Dudumowang/OUC-Deep-Learning/blob/main/pic/week01/1.5.png)
+![](https://github.com/Dudumowang/OUC-Deep-Learning/blob/main/pic/week01/1.6.png)
+![](https://github.com/Dudumowang/OUC-Deep-Learning/blob/main/pic/week01/1.7.png)
+![](https://github.com/Dudumowang/OUC-Deep-Learning/blob/main/pic/week01/1.8.png)
+![](https://github.com/Dudumowang/OUC-Deep-Learning/blob/main/pic/week01/2.1.png)
+![](https://github.com/Dudumowang/OUC-Deep-Learning/blob/main/pic/week01/2.2.png)
+![](https://github.com/Dudumowang/OUC-Deep-Learning/blob/main/pic/week01/2.3.png)
+![](https://github.com/Dudumowang/OUC-Deep-Learning/blob/main/pic/week01/2.4.png)
+![](https://github.com/Dudumowang/OUC-Deep-Learning/blob/main/pic/week01/2.5.png)
+![](https://github.com/Dudumowang/OUC-Deep-Learning/blob/main/pic/week01/2.6.png)
+![](https://github.com/Dudumowang/OUC-Deep-Learning/blob/main/pic/week01/2.7.png)
 
 
 
 ## 三、程序运行结果
-
+![](https://github.com/Dudumowang/OUC-Deep-Learning/blob/main/pic/week01/result1.png)
 
 
 
