@@ -23,11 +23,13 @@
 
 Pytorch基础练习
 
+![](https://github.com/Dudumowang/OUC-Deep-Learning/blob/main/pic/week01/1.1.png)
+
 
 
 ## 三、程序运行结果
 
-![2.7](C:\Users\16587\Desktop\week01\2.7.png)
+
 
 
 
