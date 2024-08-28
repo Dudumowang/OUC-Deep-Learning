@@ -552,16 +552,6 @@ plot_model(X, Y, model)
       (2): Linear(in_features=100, out_features=3, bias=True)
     )
 
-
-
-
-![png](02_files/02_8_1.png)
-    
-
-
-
-
-
 ## 三、程序运行结果
 ![png](02_files/02_8_1.png)
 
