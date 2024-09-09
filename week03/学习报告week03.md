@@ -1,9 +1,9 @@
 # 研一周报
-周报时间：2024.9.2-2.24.9.6
+周报时间：2024.9.9-2024.9.3
 
 ## 一、当前任务
 
-学习卷积神经网络
+学习ResNet和ResNeXt
 
 
 ## 二、本周工作
@@ -150,7 +150,7 @@ for j in range(8):
 ```
 
 
-![png](02_files/02_1_0.png)
+![png](C:/Users/16587/Desktop/OUC-Deep-Learning/week02/02_files/02_1_0.png)
 ​    
 
 car
@@ -198,7 +198,7 @@ for j in range(8):
     print(classes[labels[j]])
 ```
 
-![png](02_files/02_4_0.png)
+![png](C:/Users/16587/Desktop/OUC-Deep-Learning/week02/02_files/02_4_0.png)
     cat
     ship
     ship
