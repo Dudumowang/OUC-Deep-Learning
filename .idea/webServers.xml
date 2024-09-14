@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="aac442cf-2151-4a51-b1b1-91d19e3e171c" name="YWB">
+        <fileTransfer accessType="SFTP" host="authoring-ssh-cn-east-317.qdrgznjszx.com" port="32379" sshConfigId="063518cc-f029-47ad-ad9b-7a0c6e2c5bba" sshConfig="ma-user@authoring-ssh-cn-east-317.qdrgznjszx.com:32379 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
